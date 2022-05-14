@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "l8+RKM1V+oKkgE3/I6A8FCztFn5089wrNRTUfUbLtP3opAopTSC/gkUdK+8dF+7mX79h+sCVQr961MS4oowmTA==",
+  "dgSpecHash": "xfvHnwLLvyea2MNijDsKJXOfvzXQqJWl3w1NxFvExSx3q4+v3D/5Ss5JGH1vv37BDF2aI423jOLG/kWje1UnlQ==",
   "success": true,
   "projectFilePath": "/home/ryanhelferich/money-app/backend/backend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ryanhelferich/.nuget/packages/microsoft.aspnetcore.nodeservices/3.1.8/microsoft.aspnetcore.nodeservices.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.aspnetcore.spaservices/3.1.8/microsoft.aspnetcore.spaservices.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/3.1.8/microsoft.aspnetcore.spaservices.extensions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.configuration/3.1.8/microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.8/microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.configuration.binder/3.1.8/microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.8/microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.8/microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.8/microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.8/microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.logging/3.1.8/microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.8/microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.logging.configuration/3.1.8/microsoft.extensions.logging.configuration.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.logging.console/3.1.8/microsoft.extensions.logging.console.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.8/microsoft.extensions.options.configurationextensions.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "/home/ryanhelferich/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
